@@ -46,10 +46,10 @@ module.exports = {
 
 ### Screenshots
 
-![Home Page](https://github.com/sahuyuvraj/Hostel-Management/img/homepage.png)
-![Login Page](https://github.com/sahuyuvraj/Hostel-Management/img/loginpage.png)
-![Dashboard](https://github.com/sahuyuvraj/Hostel-Management/img/dashboard.png)
-![Room Status](https://github.com/sahuyuvraj/Hostel-Management/img/roomstatus.png)
+![Home Page](img/homepage.png)
+![Login Page](img/loginpage.png)
+![Dashboard](img/dashboard.png)
+![Room Status](img/roomstatus.png)
 
 
 
