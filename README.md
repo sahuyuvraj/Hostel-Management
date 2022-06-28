@@ -14,7 +14,6 @@ https://hostel-management11.herokuapp.com/
 - Reactstrap
 - Redux
 - JWT Authentication
-- API testing using Jest
 
 ## Development and Installation
 
