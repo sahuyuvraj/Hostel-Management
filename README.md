@@ -53,6 +53,7 @@ module.exports = {
 ![Home Page](img/homepage.png)
 ![Login Page](img/loginpage.png)
 ![Dashboard](img/dashboard.png)
+![Student Details](img/studentinfo.png)
 ![Room Status](img/roomstatus.png)
 
 
