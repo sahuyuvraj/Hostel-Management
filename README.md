@@ -6,15 +6,6 @@ Manage Your Hostel
 
 https://hostel-management11.herokuapp.com/
 
-## Topics Covered
-
-- MERN Stack
-- Hostel Management
-- Bootstrap
-- Reactstrap
-- Redux
-- JWT Authentication
-
 ## Development and Installation
 
 ### Install Backend Dependencies
